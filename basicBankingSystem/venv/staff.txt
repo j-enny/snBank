@@ -1,0 +1,3 @@
+s/n 	Full-Name 	Username 		Email 				Password 
+1 	Jimoh Nafeesat 	milereh 	jimohn97@gmail.com 		feenah 
+2 	Bamise Eniola 	olaoluwa 	iyibamise20@gmail.com 	iyiola 
